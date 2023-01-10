@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue JS, Laravel, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://www.samikshk.com](www.samikshk.com)
+- 👨‍💻 All of my projects are available at [https://www.samikshk.com](https://www.samikshk.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
