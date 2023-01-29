@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samikshk10" alt="samikshk10" /></a>- </p>
 
- <img align="right" alt="coding" width="410" src="https://gifyu.com/image/Sm670">
+ <img align="right" alt="coding" width="410" src="https://s3.gifyu.com/images/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a473853574149.gif">
 
 - 🔭 I’m currently working on **Multi-Vendor**
 
