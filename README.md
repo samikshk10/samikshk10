@@ -29,4 +29,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikshk10&" alt="samikshk10" /></p> -->
 
-[![samikshk10 GitHub stats](https://github-readme-stats.vercel.app/api?username=samikshk10)](https://github.com/samikshk10/github-readme-stats)
+[![Samik Shakya GitHub stats](https://github-readme-stats.vercel.app/api?username=samikshk10&count_private=true&show_icons=true&theme=radical)](https://github.com/samikshk10/github-readme-stats)
