@@ -29,8 +29,8 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikshk10&" alt="samikshk10" /></p> -->
 
-[![Samik Shakya GitHub stats](https://github-readme-stats.vercel.app/api?username=samikshk10&count_private=true&show_icons=true)](https://github.com/samikshk10/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samikshk10&layout=compact)](https://github.com/samikshk10/github-readme-stats)
+<p> [![Samik Shakya GitHub stats](https://github-readme-stats.vercel.app/api?username=samikshk10&count_private=true&show_icons=true)](https://github.com/samikshk10/github-readme-stats)</p>
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samikshk10&layout=compact)](https://github.com/samikshk10/github-readme-stats)</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samikshk10)
+<p>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samikshk10)</p>
 
