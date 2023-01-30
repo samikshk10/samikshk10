@@ -31,8 +31,5 @@
 
  [![Samik Shakya GitHub stats](https://github-readme-stats.vercel.app/api?username=samikshk10&count_private=true&show_icons=true)](https://github.com/samikshk10/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samikshk10&layout=compact)](https://github.com/samikshk10/github-readme-stats)
-<br>
-<br>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samikshk10&hide_border=true&border_radius=5.1)](https://git.io/streak-stats)
 
