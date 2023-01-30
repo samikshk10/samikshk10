@@ -33,8 +33,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samikshk10&layout=compact)](https://github.com/samikshk10/github-readme-stats)
 <br>
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samikshk10)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samikshk10)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samikshk10&hide_border=true&border_radius=5.1)](https://git.io/streak-stats)
 
