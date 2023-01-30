@@ -35,3 +35,6 @@
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samikshk10)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samikshk10)](https://git.io/streak-stats)
+
+
